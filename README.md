@@ -40,8 +40,6 @@ Once the model is successfully created, start interacting with it using-
 
 ## Sample Output
 
-Here’s an example of the interaction with jarvis-
-
 ![Sample Output](sample_output.png)
 
 
